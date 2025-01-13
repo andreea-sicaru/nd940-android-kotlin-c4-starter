@@ -7,7 +7,7 @@ google-services.json
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
-.idea
+.idea/*
 .DS_Store
 /captures
 .externalNativeBuild
